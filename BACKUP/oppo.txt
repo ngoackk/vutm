@@ -1,0 +1,8 @@
+cordova: "7.1.4"
+isVirtual: false
+manufacturer: "OPPO"
+model: "RMX1805"
+platform: "Android"
+serial: "90cbce14"
+uuid: "a2eb127798720d76"
+version: "8.1.0"

@@ -1,0 +1,8 @@
+cordova: "7.1.4"
+isVirtual: false
+manufacturer: "Masscom"
+model: "Masstel_Juno_S6"
+platform: "Android"
+serial: "0123456789ABCDEF"
+uuid: "4e66d6b6e0da1c39"
+version: "7.0"
